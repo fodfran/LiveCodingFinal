@@ -1,0 +1,11 @@
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween.deps.json
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween.runtimeconfig.json
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween.runtimeconfig.dev.json
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween.dll
+/Users/francesca/lc101/csharp-exercises/Halloween/bin/Debug/netcoreapp3.1/Halloween.pdb
+/Users/francesca/lc101/csharp-exercises/Halloween/obj/Debug/netcoreapp3.1/Halloween.csprojAssemblyReference.cache
+/Users/francesca/lc101/csharp-exercises/Halloween/obj/Debug/netcoreapp3.1/Halloween.AssemblyInfoInputs.cache
+/Users/francesca/lc101/csharp-exercises/Halloween/obj/Debug/netcoreapp3.1/Halloween.AssemblyInfo.cs
+/Users/francesca/lc101/csharp-exercises/Halloween/obj/Debug/netcoreapp3.1/Halloween.dll
+/Users/francesca/lc101/csharp-exercises/Halloween/obj/Debug/netcoreapp3.1/Halloween.pdb
